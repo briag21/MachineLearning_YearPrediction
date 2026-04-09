@@ -8,5 +8,5 @@ Je présente ici exclusivement le notebook de la partie régression, sur laquell
 L'objectif principal du projet consistait à identifier et implémenter la méthode la plus efficace pour répondre au défi Kaggle *YearPredictionMSD* (Million Song Dataset).
 
 ### Contenu du répertoire
-* **Méthodologie et résultats :** Le compte rendu détaille la démarche scientifique, le prétraitement des données et l'analyse des performances obtenues.
-* **Notebook :** L'implémentation complète est disponible dans le fichier `regression_YearPrediction.ipynb`, incluant l'exploration des données (EDA), l'entraînement des modèles et l'évaluation des métriques.
+* **Méthodologie et résultats :** Le compte rendu détaille la démarche et l'analyse des performances obtenues.
+* **Notebook :** L'implémentation complète est disponible dans le fichier `regression_YearPrediction.ipynb`.
